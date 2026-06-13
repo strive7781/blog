@@ -1,0 +1,33 @@
+# Java / Maven
+backend/target/
+*.class
+*.jar
+*.war
+*.iml
+
+# Node / Vue
+node_modules/
+dist/
+*.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Uploads & logs
+backend/uploads/
+uploads/
+*.log
+mirror.log
+mirror-report.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env secrets
+.env
+.env.local
+.env.*.local
