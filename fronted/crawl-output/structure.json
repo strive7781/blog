@@ -1,0 +1,177 @@
+{
+  "title": "Kyle's Blog",
+  "sections": [
+    {
+      "index": 0,
+      "tag": "header",
+      "id": "page-header",
+      "className": "full_page",
+      "rect": {
+        "top": 0,
+        "height": 900
+      }
+    },
+    {
+      "index": 1,
+      "tag": "main",
+      "id": "content-inner",
+      "className": "layout",
+      "rect": {
+        "top": 900,
+        "height": 2848
+      }
+    },
+    {
+      "index": 2,
+      "tag": "footer",
+      "id": "footer",
+      "className": null,
+      "rect": {
+        "top": 3748,
+        "height": 447
+      }
+    }
+  ],
+  "images": [],
+  "cssLinks": [
+    "https://cyborg2077.github.io/css/index.css",
+    "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css",
+    "https://cdn.staticfile.org/fancyapps-ui/4.0.31/fancybox.min.css",
+    "https://cyborg2077.github.io/css/custom.css",
+    "https://cdn1.tianli0.top/npm/element-ui@2.15.6/packages/theme-chalk/lib/index.css",
+    "https://at.alicdn.com/t/c/font_3049706_m3wrww27lm.css",
+    "https://cdn.cbd.int/hexo-butterfly-clock-anzhiyu@1.1.6/lib/clock.min.css",
+    "https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css",
+    "https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiperstyle.css",
+    "https://unpkg.zhimg.com/hexo-butterfly-footer-beautify@1.0.0/lib/runtime.min.css",
+    "https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css",
+    "https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.css",
+    "https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css",
+    "https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css",
+    "https://npm.elemecdn.com/hexo-butterfly-wowjs/lib/animate.min.css",
+    "https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css"
+  ],
+  "jsLibraries": [],
+  "navLinks": [
+    {
+      "text": "Kyle's Blog",
+      "href": "https://cyborg2077.github.io/"
+    },
+    {
+      "text": "首页",
+      "href": "https://cyborg2077.github.io/"
+    },
+    {
+      "text": "文章",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "归档",
+      "href": "https://cyborg2077.github.io/archives/"
+    },
+    {
+      "text": "标签",
+      "href": "https://cyborg2077.github.io/tags/"
+    },
+    {
+      "text": "分类",
+      "href": "https://cyborg2077.github.io/categories/"
+    },
+    {
+      "text": "休闲",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "健身日寄",
+      "href": "https://cyborg2077.github.io/box/fitness/"
+    },
+    {
+      "text": "番剧",
+      "href": "https://cyborg2077.github.io/box/animation/"
+    },
+    {
+      "text": "记忆胶囊",
+      "href": "https://cyborg2077.github.io/secret/"
+    },
+    {
+      "text": "社交",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "留言板",
+      "href": "https://cyborg2077.github.io/comments/"
+    },
+    {
+      "text": "友人帐",
+      "href": "https://cyborg2077.github.io/link/"
+    },
+    {
+      "text": "个人",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "闲言碎语",
+      "href": "https://cyborg2077.github.io/moments/"
+    },
+    {
+      "text": "关于我",
+      "href": "https://cyborg2077.github.io/about/"
+    },
+    {
+      "text": "Pumpkin",
+      "href": "https://cyborg2077.github.io/pumpkin/"
+    },
+    {
+      "text": "PAGE_NAME",
+      "href": "javascript:scrollToTop()"
+    },
+    {
+      "text": "搜索",
+      "href": ""
+    },
+    {
+      "text": "",
+      "href": ""
+    },
+    {
+      "text": "",
+      "href": ""
+    },
+    {
+      "text": "",
+      "href": ""
+    },
+    {
+      "text": "",
+      "href": "https://github.com/Cyborg2077"
+    },
+    {
+      "text": "",
+      "href": "http://wpa.qq.com/msgrd?v=3&uin=1586385296&site=qq&menu=yes"
+    },
+    {
+      "text": "",
+      "href": "https://music.163.com/#/user/home?id=608935942"
+    },
+    {
+      "text": "",
+      "href": "https://space.bilibili.com/160218990"
+    },
+    {
+      "text": "",
+      "href": "https://steamcommunity.com/profiles/76561198851566538/"
+    },
+    {
+      "text": "2",
+      "href": "https://cyborg2077.github.io/page/2/#content-inner"
+    },
+    {
+      "text": "9",
+      "href": "https://cyborg2077.github.io/page/9/#content-inner"
+    },
+    {
+      "text": "",
+      "href": "https://cyborg2077.github.io/page/2/#content-inner"
+    }
+  ]
+}

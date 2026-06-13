@@ -1,0 +1,1 @@
+{"root":["./src/api.ts","./src/main.ts","./src/router/index.ts","./src/app.vue","./src/components/bytemdeditor.vue","./src/layouts/adminlayout.vue","./src/views/articleedit.vue","./src/views/articlelist.vue","./src/views/categories.vue","./src/views/login.vue","./src/views/media.vue","./src/views/sitesettings.vue","./src/views/tags.vue"],"errors":true,"version":"5.6.3"}

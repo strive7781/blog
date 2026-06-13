@@ -1,0 +1,18 @@
+:root {
+  --theme-color: rgb(57, 197, 187);
+  --font-color: #4c4948;
+  --global-font-size: 15.5px;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: 'LXGW WenKai', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-size: var(--global-font-size);
+  line-height: 1.7;
+  color: var(--font-color);
+  letter-spacing: 0.02em;
+}
+
+a { color: var(--theme-color); text-decoration: none; }
+a:hover { opacity: 0.85; }

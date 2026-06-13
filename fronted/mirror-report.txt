@@ -1,0 +1,4 @@
+pages_ok=5466
+pages_fail=14
+assets=10
+discovered=5466

@@ -1,0 +1,10 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  background: #f5f7fa;
+}
+.bytemd-full {
+  height: calc(100vh - 280px);
+  min-height: 420px;
+}
